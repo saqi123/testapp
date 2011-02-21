@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  type: MyString
+  details: MyString
+  comments: MyString
+  client: MyString
+  status: MyString
+
+two:
+  type: MyString
+  details: MyString
+  comments: MyString
+  client: MyString
+  status: MyString
