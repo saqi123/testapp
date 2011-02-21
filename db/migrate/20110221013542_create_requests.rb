@@ -2,7 +2,7 @@ class CreateRequests < ActiveRecord::Migration
   def self.up
     create_table :requests do |t|
       t.string :type
-      t.string :details
+      t.text :details
       t.string :comments
       t.string :client
       t.string :status

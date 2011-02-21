@@ -2,14 +2,14 @@
 
 one:
   type: MyString
-  details: MyString
+  details: MyText
   comments: MyString
   client: MyString
   status: MyString
 
 two:
   type: MyString
-  details: MyString
+  details: MyText
   comments: MyString
   client: MyString
   status: MyString
